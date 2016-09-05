@@ -1,0 +1,66 @@
+h1 {color: #000080;
+   font-family: "Arial black";
+   text-align: center;
+ }
+
+p {color: black;
+   margin-left: 50px; 
+   margin-right:50px; 
+ }
+
+#quo {color: #F4D03F;
+     text-align: center; 
+}
+
+#cs {
+    
+    text-align: center;
+ }
+
+#hob { 
+   margin-left: 50px; 
+}
+
+.red {
+   color:red;
+   font-weight:bold;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
+  height:250px;
+}
+
+
+table,th,td {
+ border:0px;
+ margin-right:auto;
+ margin-left:auto;
+ margin-top:20px;
+ margin-bottom:10px;
+ width:85%;
+ text-align: left;
+}
+
+
+tr:nth-child(odd) {
+  background: #FF0000;
+}
+
+tr:nth-child(even) {
+  background: #FFFF00;
+}
+
+a:hover {
+    color: #F4D03F;
+}
+
+
+* {font-family: "sans-serif";
+    background-image: url("sky.jpg");
+    background-attachment: fixed;
+}
+
